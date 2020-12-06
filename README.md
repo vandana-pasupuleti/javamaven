@@ -5,6 +5,6 @@ github-webhook/
 
 commit id change
 
-added
+removed
 
 
